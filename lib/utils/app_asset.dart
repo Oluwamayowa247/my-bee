@@ -78,15 +78,11 @@ class _AppAssetsImages {
   // final speakerHeadshotsTakaoChitoseJpg =
   //     "assets/images/Speaker-Headshots_Takao_Chitose.jpg";
 
-  final kayteeImg1 = "assets/images/k1.jpg";
-  final kayteeImg2 = "assets/images/k2.jpg";
-  final kayteeImg3 = "assets/images/k3.jpg";
-  final kayteeImg4 = "assets/images/k4.jpg";
-  final kayteeImg5 = "assets/images/k5.jpg";
-  final kayteeImg6 = "assets/images/k6.jpg";
-  final kayteeImg7 = "assets/images/k7.jpg";
-  final kayteeImg8 = "assets/images/k8.jpg";
-  final kayteeImg9 = "assets/images/k9.jpg";
-  final kayteeImg10 = "assets/images/k10.jpg";
-  final kayteeImg11 = "assets/images/k11.jpg";
+  final kayteeImg1 = "assets/images/my_bee1.jpg";
+  final kayteeImg2 = "assets/images/my_bee2.jpg";
+  final kayteeImg3 = "assets/images/my_bee3.jpg";
+  final kayteeImg4 = "assets/images/my_bee4.jpg";
+  final kayteeImg5 = "assets/images/my_bee5.jpg";
+  final kayteeImg6 = "assets/images/my_bee6.jpg";
+  final kayteeImg7 = "assets/images/my_bee7.jpg";
 }
